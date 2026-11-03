@@ -1,5 +1,5 @@
 # C-Calculator
-A simple calculator developed using C programming language as part of my programming practice.
+A simple calculator developed using C programming language as part of my programming practice!
 
 Features
 
